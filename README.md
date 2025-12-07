@@ -1,16 +1,22 @@
-# Unit Price Calculator
-A basic Unit Price Calculator designed in HTML, CSS &amp; React.js
+# 🏷️ Unit Price Calculator
 
-## How does it work?
+A simple **Unit Price Calculator** built with **HTML**, **CSS**, and **React.js**.
 
-This calculator calculates the unit price of a specific item based on the quantity and total price. In retail, when buying something at a grocery store, you will often see a "unit price" on the price tag. To check for accuracy and to prevent yourself from being overcharged, you can use this calculator. 
+## ⚙️ How It Works
 
-## How do I use it? 
+This tool calculates the **unit price** of an item using its **total cost** and **quantity**.  
+In grocery stores and retail, items often display a "unit price" so you can compare value across brands and package sizes.  
+This calculator lets you double-check accuracy and avoid being overcharged.
 
-Instructions to be added.
+## 📘 How to Use
 
+Instructions will be added soon.
 
-## Can I use this code in my project?
-This project is fully open source and may be used any project assuming compliance with the MIT license, which you can find in ``LICENSE.MD``.
+## 📄 License
 
-Made by Austin Morris (RavynGG) in Michigan💙
+This project is fully open source under the **MIT License**.  
+See the full license text in:  `LICENSE.md`
+
+## ✨ Author
+
+Created by **Austin Morris (RavynGG)** in **Michigan 💙**
