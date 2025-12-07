@@ -1,4 +1,4 @@
-# Unit Price Calculator - Made by Austin Morris (Ravyn)
+# Unit Price Calculator
 A basic Unit Price Calculator designed in HTML, CSS &amp; React.js
 
 
@@ -6,3 +6,8 @@ This calculator calculates the unit price of a specific item based on the quanti
 
 ## How do I use it? 
 
+
+# Credits & Rights
+Austin Morris (RavynGG)
+
+**This is an open source project, however if you 
